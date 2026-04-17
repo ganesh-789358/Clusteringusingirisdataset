@@ -6,7 +6,9 @@ This visualization shows the Elbow Method used to determine the optimal number o
 
 ![](https://github.com/ganesh-789358/Clusteringusingirisdataset/blob/main/Screenshot%202026-04-17%20175134.png)
 
+This scatter plot visualizes the K-Means clustering results using sepal length and sepal width. Each point represents a flower, and colors indicate different clusters. The plot shows how the algorithm groups similar data points together, revealing clear separation between clusters based on feature patterns.
 
 ![](https://github.com/ganesh-789358/Clusteringusingirisdataset/blob/main/Screenshot%202026-04-17%20175226.png)
 
+This plot shows K-Means clustering with a higher number of clusters (k=9). Each color represents a different cluster, resulting in more fragmented groupings. Compared to smaller k values, the data is over-segmented, making clusters less meaningful. This highlights why choosing an optimal k (like 3) is important for better pattern recognition.
 ![](https://github.com/ganesh-789358/Clusteringusingirisdataset/blob/main/Screenshot%202026-04-17%20175257.png)
