@@ -12,3 +12,5 @@ This scatter plot visualizes the K-Means clustering results using sepal length a
 
 This plot shows K-Means clustering with a higher number of clusters (k=9). Each color represents a different cluster, resulting in more fragmented groupings. Compared to smaller k values, the data is over-segmented, making clusters less meaningful. This highlights why choosing an optimal k (like 3) is important for better pattern recognition.
 ![](https://github.com/ganesh-789358/Clusteringusingirisdataset/blob/main/Screenshot%202026-04-17%20175257.png)
+
+The Iris clustering project shows that K-Means effectively groups similar data points based on flower features. Using the Elbow Method, the optimal number of clusters is around 3, which aligns well with the actual species. Lower or higher k values lead to underfitting or over-segmentation. Overall, the model successfully uncovers natural patterns in the dataset.
